@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(130deg, #628E75 0.66%, #1A4855 83.32%);
+    box-shadow: 26px 24px 90px 0 rgba(31, 26, 51, 0.13);
+    margin-top: 30px;
+}
+
+.topo{
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    display: flex;
+    margin-left: 100px;
+  
+}
+
+.icons{
+  margin-right: 100px;
+}
